@@ -9,4 +9,10 @@ class Funciones:
         if (n<5):
             return True
         else:
-            return False        
+            return False
+
+    def mayor_7(self,n):
+        if (n>7):
+            return True
+        else:
+            return False
