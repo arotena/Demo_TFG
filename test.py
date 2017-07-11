@@ -3,7 +3,7 @@
 from Funciones import Funciones
 import unittest
 
-class CarcassoneTest(unittest.TestCase):
+class EjemploTest(unittest.TestCase):
 
     def test_Hola(self):
         f = Funciones()
